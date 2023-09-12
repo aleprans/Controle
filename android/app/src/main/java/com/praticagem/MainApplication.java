@@ -1,4 +1,4 @@
-package com.bottomsheet;
+package com.praticagem;
 
 import android.app.Application;
 import com.facebook.react.PackageList;
